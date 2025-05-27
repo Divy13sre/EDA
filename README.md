@@ -106,8 +106,6 @@ plt.show()
 
 output:
 ![image](https://github.com/user-attachments/assets/cfd9e686-cf88-4c2d-a3b4-3b8f5301e3ba)
-![image](https://github.com/user-attachments/assets/a65c0b5a-ff38-40ec-a3b6-7aa5db62809f)
-![image](https://github.com/user-attachments/assets/3102fb64-63f6-407c-afd7-f7534943920b)
 ![image](https://github.com/user-attachments/assets/63de67e4-526f-4606-a060-ce18f6701a1f)
 ![image](https://github.com/user-attachments/assets/462707d0-620b-4e88-982f-2178d0e9b73f)
 
