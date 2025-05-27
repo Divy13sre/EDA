@@ -1,0 +1,46 @@
+Titanic Dataset Exploratory Data Analysis (EDA)
+
+This project performs exploratory data analysis (EDA) on the Titanic dataset to uncover insights and patterns related to passenger survival. Using Python libraries like Pandas, Matplotlib, Seaborn, and Plotly, the dataset is explored through statistics and visualizations.
+
+## Dataset
+The dataset used is the Titanic passenger manifest, which includes features such as:
+- Passenger demographics (Age, Sex)
+- Ticket class (Pclass)
+- Fare paid
+- Survival status (Survived)
+
+## Steps in the EDA
+1. Data Loading 
+   Loading the dataset using Pandas.
+
+2. Data Inspection 
+   Checking the structure, column types, missing values, and summary statistics.
+
+3. Univariate Analysis 
+   Visualizing distributions of numeric features (Age, Fare) using histograms and boxplots.
+
+4. Bivariate Analysis 
+   Exploring relationships between features, such as survival rates by sex and class using barplots.
+
+5. Correlation Analysis 
+   Generating correlation matrices and pairplots to understand feature relationships.
+
+6. Insights 
+   Highlighting important patterns and trends, like higher survival rates for females and first-class passengers.
+
+## Tools and Libraries
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+
+## How to Run
+1. Upload the `Titanic-Dataset.csv` file to your working directory or Colab environment.
+2. Run the provided Python scripts or Jupyter notebooks.
+3. Explore outputs such as plots and statistical summaries.
+
+## References
+- Titanic Dataset source: [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic)
+- Python libraries documentation for Pandas, Matplotlib, Seaborn, and Plotly.
+
