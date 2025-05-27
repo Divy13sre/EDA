@@ -92,7 +92,7 @@ Cabin          687
 Embarked         2
 dtype: int64
 
-step 3:Histograms and boxplots for numerical features
+step 2:Histograms and boxplots for numerical features
 
 # Histograms
 df.hist(figsize=(10, 8))
@@ -125,6 +125,7 @@ output:
 ![image](https://github.com/user-attachments/assets/4a371827-7453-45d6-a299-2198eb00d5c7)
 
 step 4: Identifies patterns,trends or anomalies
+
 .outliers in boxplots(very high fare values)
 .skewness in age distribution
 .class imbalance in survived
